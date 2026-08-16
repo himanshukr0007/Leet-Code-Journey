@@ -17,12 +17,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
