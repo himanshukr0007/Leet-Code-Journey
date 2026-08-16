@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0089-gray-code) |
 ## Backtracking
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0049-group-anagrams) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
