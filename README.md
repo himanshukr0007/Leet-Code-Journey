@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0068-text-justification) |
 ## Trie
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0068-text-justification) |
 ## Two Pointers
 |  |
 | ------- |
