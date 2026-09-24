@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0068-text-justification) |
+| [0115-distinct-subsequences](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0115-distinct-subsequences) |
 ## Trie
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0115-distinct-subsequences) |
 ## Matrix
 |  |
 | ------- |
