@@ -69,5 +69,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
