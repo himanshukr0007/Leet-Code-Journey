@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## String
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0061-rotate-list) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
