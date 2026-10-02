@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0089-gray-code) |
 ## Backtracking
 |  |
@@ -82,5 +83,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
