@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0089-gray-code) |
 ## Array
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0088-merge-sorted-array) |
