@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Binary Search
