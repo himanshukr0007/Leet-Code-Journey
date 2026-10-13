@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Dynamic Programming
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -126,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0112-path-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/himanshukr0007/Leet-Code-Journey/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
